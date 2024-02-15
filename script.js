@@ -1,4 +1,4 @@
-var API = "https://restcountries.com/v3.1/all";
+var API = "https://restcountries.com/v3.1/Afghanistan,Åland Islands,Albania";
 
 
 var fet = fetch(API)
